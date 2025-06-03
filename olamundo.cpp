@@ -13,7 +13,7 @@ int main(void)
 
 int main(void)
 {
-    std::cout << "Ola Mundo!" << std::endl;
+    std::cout << "Ola Mundo C++!" << std::endl;
     return 0;
 }
 
