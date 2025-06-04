@@ -3,7 +3,9 @@
 
 int main(void)
 {
+    int numero = 10; // Exemplo de variável
     puts("Ola Mundo!");
+    printf("O número é %d\n", numero);
     return 0;
 }
 */
