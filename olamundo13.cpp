@@ -16,13 +16,16 @@ void tabuada ( int n );
 
 int main()
 {
-    int n;
+    int numero;
     mostra ( "Exemplo de Função: ");
     cout << soma ( 6, 5 ) << endl << endl;;
     cout << "Digite um número para ver a tabuada: ";
-    cin >> n;
+    cin >> numero;
     cout << endl;
-    tabuada ( n );
+    tabuada ( numero );
+    cout << endl << numero;
+    
+
     mostra ( "Fim do programa." );
 
 
